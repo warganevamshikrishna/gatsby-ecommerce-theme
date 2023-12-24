@@ -25,7 +25,7 @@ const StylingPage = () => {
             <p className={'b4'}>Body 4</p>
             <p className={'buttonText'}>Button</p>
           </div>
-          <h2>Branding Guide</h2>
+          <h2>Branding Guide Wargital</h2>
           <div className={styles.grid4}>
             <div
               className={styles.brand}
@@ -52,7 +52,7 @@ const StylingPage = () => {
               className={styles.brand}
               style={{ backgroundColor: 'var(--standard-light-grey)' }}
             >
-              <span>Milk</span>
+              <span>Wargital</span>
               <span>#FCFAF6</span>
             </div>
           </div>
