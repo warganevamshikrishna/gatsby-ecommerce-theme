@@ -49,7 +49,7 @@ const FavoritesPage = (props) => {
               { link: '/account/favorites', label: 'Favorites' },
             ]}
           />
-          <h1>Favorites</h1>
+          <h1>Favorites of Wargital Makes Digital</h1>
           <div className={styles.favoriteListContainer}>
             <FavoriteCard
               showConfirmDialog={() => setShowDelete(true)}
